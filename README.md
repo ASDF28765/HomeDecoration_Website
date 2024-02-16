@@ -1,2 +1,2 @@
-//Welcome Everyone, This is a Java project.
+//Welcome Everyone, This is an HTML project.
 Any Feedback is encouraged!!
